@@ -1,0 +1,27 @@
+body {
+    height: 100vh; /* Set a specific height for the body */
+    width: 100%;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+   
+}
+
+.row {
+    margin: 5px 0;
+    
+}
+
+.input {
+    margin: 10px 0 0 0; /* Adjusted the margin to move it to the bottom */
+    padding: 10px 0px; /* Removed the space between values */
+    border: 2px solid black;
+    border-radius: 5px;  
+    font-size: 20px;
+}
+
